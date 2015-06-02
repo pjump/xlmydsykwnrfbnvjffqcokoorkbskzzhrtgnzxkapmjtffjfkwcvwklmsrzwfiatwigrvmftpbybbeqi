@@ -16,8 +16,8 @@ Gem::Specification.new do |s|
   #s.metadata['allowed_push_host'] = "TODO: Set to 'http://mygemserver.com' to prevent pushes to rubygems.org, or delete to allow pushes to any server."
 
   #####Must change
-  s.summary       = %q{TODO: Write a summary}
-  s.description   = %q{TODO: Write a description}
+  s.summary       = %q{My gem playground}
+  s.description   = %q{I hope I didn't take up a gem name somebody else wanted}
   s.licenses      = %w[GPL-2.0]
 
 
