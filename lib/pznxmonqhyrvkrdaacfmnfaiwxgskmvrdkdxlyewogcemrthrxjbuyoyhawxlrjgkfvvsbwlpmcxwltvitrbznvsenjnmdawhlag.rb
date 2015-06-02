@@ -1,0 +1,5 @@
+require "pznxmonqhyrvkrdaacfmnfaiwxgskmvrdkdxlyewogcemrthrxjbuyoyhawxlrjgkfvvsbwlpmcxwltvitrbznvsenjnmdawhlag/version"
+
+module Pznxmonqhyrvkrdaacfmnfaiwxgskmvrdkdxlyewogcemrthrxjbuyoyhawxlrjgkfvvsbwlpmcxwltvitrbznvsenjnmdawhlag
+  
+end
