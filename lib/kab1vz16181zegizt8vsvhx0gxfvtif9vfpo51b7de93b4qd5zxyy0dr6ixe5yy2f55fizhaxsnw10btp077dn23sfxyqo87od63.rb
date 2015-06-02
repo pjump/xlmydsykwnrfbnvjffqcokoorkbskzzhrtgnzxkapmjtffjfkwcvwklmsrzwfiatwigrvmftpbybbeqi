@@ -1,5 +1,0 @@
-require "kab1vz16181zegizt8vsvhx0gxfvtif9vfpo51b7de93b4qd5zxyy0dr6ixe5yy2f55fizhaxsnw10btp077dn23sfxyqo87od63/version"
-
-module Kab1vz16181zegizt8vsvhx0gxfvtif9vfpo51b7de93b4qd5zxyy0dr6ixe5yy2f55fizhaxsnw10btp077dn23sfxyqo87od63
-  
-end
